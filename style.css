@@ -1,0 +1,17 @@
+.info-back {
+    background-color: #fceae8;
+
+}
+
+.cata-width img {
+    width: 100px;
+}
+
+.btn-buy {
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+
+}
